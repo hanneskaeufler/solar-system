@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/hanneskaeufler/solar-system.svg?branch=master)](https://travis-ci.org/hanneskaeufler/solar-system)
+
 # Solar System
 
 ![](screenshot/screenshot.png)
