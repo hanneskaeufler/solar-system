@@ -5,4 +5,4 @@ before_install:
   - wget https://www.sfml-dev.org/files/SFML-2.4.2-linux-gcc-64-bit.tar.gz
   - tar xzf SFML-2.4.2-linux-gcc-64-bit.tar.gz
 script:
-  - ./cmake-3.9.4-Linux-x86_64/bin/cmake . -DSFML_INCLUDE_DIR=/SFML-2.4.2-linux-gcc-64-bit/include/SFML && make
+  - ./cmake-3.9.4-Linux-x86_64/bin/cmake . -DSFML_INCLUDE_DIR=/SFML-2.4.2/include && make
